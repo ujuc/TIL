@@ -1,0 +1,3 @@
+[submodule "go/get-programming-with-go"]
+	path = go/get-programming-with-go
+	url = git@github.com:ujuc/get-programming-with-go.git
