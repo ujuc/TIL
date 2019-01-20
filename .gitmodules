@@ -1,3 +1,6 @@
 [submodule "go/get-programming-with-go"]
 	path = go/get-programming-with-go
 	url = git@github.com:ujuc/get-programming-with-go.git
+[submodule "php/phony/phony_kahlan_example"]
+	path = php/phony/phony_kahlan_example
+	url = git@github.com:ujuc/phony_kahlan_example.git
